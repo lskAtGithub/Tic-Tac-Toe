@@ -229,11 +229,6 @@ html {
     font-size: 1.3rem;
     margin-bottom: 1.5rem;
   }
-  
-  .credits .twhy .github {
-    margin-right: 10px;
-  }
-  
-  .credits .icon {
+  .credits p {
     color: #666;
   }
