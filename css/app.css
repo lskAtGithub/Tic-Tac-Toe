@@ -224,11 +224,9 @@ html {
     background: #ff9800;
   }
   
-  .credits .twhy {
+  .copyright {
     text-align: center;
     font-size: 1.3rem;
     margin-bottom: 1.5rem;
-  }
-  .credits p {
-    color: #666;
+    color: #756b6b;
   }
